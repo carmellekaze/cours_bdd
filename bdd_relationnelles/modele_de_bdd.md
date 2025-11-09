@@ -1,4 +1,4 @@
-# Modèles de Bases de Données
+de# Modèles de Bases de Données
 
 ### Définitions clés
 
@@ -190,12 +190,12 @@ La colonne school_id dans Student est la clé étrangère qui capture la relatio
    Exemple :
    ```
    ┌─────────┐      ┌────────────┐
-   │ School  │      │  Student   │
-   │ id      │      │ id         │
-   │ name    │      │ name       │
-   │ location│      │ surname    │
-   └─────────┘      │ school_id  │
-                    └────────────┘
+   │ School    │      │  Student     │
+   │ id        │      │ id           │
+   │ name      │      │ name         │
+   │ location. │      │ surname      │
+   └─────────┘      │ school_id    │
+                      └────────────┘
    ```
 
 ---
