@@ -61,13 +61,13 @@ Entités principales
 ---
 
 ## Outil recommandé pour créer le schéma
-Utilisez dbdiagram.io — un outil gratuit et intuitif pour créer des schémas relationnels en ligne.
+Utilisez [dbdiagram.io](https://dbdiagram.io/home) — un outil gratuit et intuitif pour créer des schémas relationnels en ligne.
 
 > Vous pouvez y décrire votre modèle en pseudo-SQL comme ceci :
 ```sql
 Table livre {
   id int [pk]
-  titre varchar
+  titre varc`har
   année_publication int
   auteur_id int [ref: > auteur.id]
 }
