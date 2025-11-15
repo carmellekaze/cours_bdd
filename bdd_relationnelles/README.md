@@ -15,7 +15,7 @@ Ce dépôt regroupe des ressources pédagogiques pour comprendre et maîtriser l
 
 ---
 
-## 📌 Objectifs pédagogiques
+## Objectifs pédagogiques
 
 - Comprendre les fondements du modèle relationnel.
 - Identifier les bonnes pratiques de modélisation.
