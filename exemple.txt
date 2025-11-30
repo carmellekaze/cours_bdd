@@ -1,0 +1,2 @@
+Ceci est un fichier de texte pour Git
+Au revoir
